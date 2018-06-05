@@ -12,16 +12,23 @@ body {
     margin: 0;
     padding: 0;
 }
-
 h1{
     text-align: center;
     color:white;
     background-image: url("/blueprint.jpg");
     border-style: solid;
     border-width: 5px;
-    padding: 50px;
+    padding: 40px;
+    margin: 20px 10%;
+
+}
+@media screen and (min-width: 480px){
+
+h1{
     margin: 20px 30%;
 }
+}
+
 div.board {
     background-color: brown;
     width: 100%;
