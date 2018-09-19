@@ -10,7 +10,6 @@ Created using the following technologies:
 * JavaScript
 
 
-Live demo at : 
-https://app-bulletin-board.herokuapp.com/
+[Live Demo](https://app-bulletin-board.herokuapp.com/)
 
 Current Status: In progress
